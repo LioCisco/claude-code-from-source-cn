@@ -18,7 +18,7 @@
 
 **18 章，分为 7 个部分。** 相当于印刷版约 192 页。
 
-每一章都有层次分明的深度：面向技术领导者的叙述流、面向实现者的深入章节，以及**"应用"**结尾部分，提炼可转移的模式供你在自己的系统中使用。图表使用 [Mermaid](https://mermaid.js.org/) 绘制，可在 GitHub 上原生渲染。
+每一章都有层次分明的深度：面向技术领导者的叙述流、面向实现者的深入章节，以及**"应用"**结尾部分，提炼可转移的模式供你在自己的系统中使用。图表使用 [Mermaid](https://mermaid.js.org/) 绘制，可在 GitHub 上原生渲染。[完整版pdf下载](https://github.com/LioCisco/claude-code-from-source-cn/blob/main/book-pdf/%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
 
 ---
 
